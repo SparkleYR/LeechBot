@@ -5,19 +5,19 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "acbv1233blahbkah"
-        API_ID = 696969
+        API_HASH = "a377bd125a8115f1b2889ca7b9d4701ee"
+        API_ID = 1521089
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "anime.touka.workers.dev/0:/"
+        GD_INDEX_URL = "https://amachived.mikiadarsh25.workers.dev/0:/"
         
-        BOT_TOKEN = "23457345:advgyfchyrdchyfc"
+        BOT_TOKEN = "1781364386:AAFMiu0NOmZzx4ZjkItaqzDhb-7JCF2nu6g"
         BASE_URL_OF_BOT = "https://anime19.tk"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001229703790, 925128836]
+        ALD_USR = [-100555302387, 1248926716]
         
         # Time to wait before edit message
-        EDIT_SLEEP_SECS = 10
+        EDIT_SLEEP_SECS = 12
 
         # Telegram Upload Limit (in bytes)
         TG_UP_LIMIT = 2097152000
@@ -29,10 +29,10 @@ except:
         COMPLETED_STR = "▓"
 
         # Chracter to use as a incomplete progress
-        REMAINING_STR = "▒"
+        REMAINING_STR = "X"
 
         # DB URI for access heroku prodrige url whatever 💁‍♀️
-        DB_URI = ":00c30bf487b5be9709cb11bd877d18f56071cb4ee2eb4c1de16a8565a9c0cc68@ec2-52-71-153-228.compute-1.amazonaws.com:5432/dc6mocelst2jl5"
+        DB_URI = "postgres://hymgevxa:XGRsloIHD1O7BNOgooK_uDF51ms-tLRQ@queenie.db.elephantsql.com:5432/hymgevxa"
         
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
