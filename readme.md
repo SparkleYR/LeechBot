@@ -1,3 +1,5 @@
+Unsupported. You're free to fork and make this work again.
+
 ## heroku button 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dishapatel010/torleeach2/tree/newxdanime)
@@ -11,7 +13,6 @@ The bot gets started with minimum variables and others can be set as and when ne
 ## For Heroku users New repo will come soon (This repo will not work on heroku)
 
 ## Installing
-### [Demo video for direct clone and run](https://youtu.be/HYjG4-VfxXs)
 ### Direct Clone and Run
 Run the following commands. (Following commands can be used to setup the vps from scratch)
    
